@@ -1,0 +1,13 @@
+pip
+
+flask
+flask[async]
+waitress
+
+requests
+typing_extensions
+diff-match-patch
+
+pillow
+
+pymysql
